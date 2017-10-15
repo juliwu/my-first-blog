@@ -1,0 +1,33 @@
+h1 {
+  color: white;
+  background-color: orange;
+  font-family: "Lobster";
+  padding: 20px 20px 20px 40px;
+  margin-top: 0;
+}
+
+
+.page-header {
+  color: black;
+  font-family: "Arial";
+  padding-left: 25px;
+  padding-right: 25px;
+  text-decoration: underline;
+
+}
+
+a:visited {
+  color: black;
+}
+
+a:hover {
+  color: grey;
+}
+
+.post {
+  color: black;
+  font-family: "Arial";
+  padding-left: 25px;
+  padding-right: 25px;
+
+}
